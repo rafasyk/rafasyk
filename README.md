@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi! I'm Rafaela  <br>🎓 Computer Science student at UTFPR  <br>💻 Computer Technician graduated from IFSP
+# 👋 Hi! I'm Rafaela 
+🎓 Computer Science student at UTFPR  <br>💻 Computer Technician graduated from IFSP
 
 
 ## 🌐 Socials:
